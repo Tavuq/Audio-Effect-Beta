@@ -1,0 +1,22 @@
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\Ses Deneme.csproj.AssemblyReference.cache
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\Ses Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\Ses Deneme.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\Ses Deneme.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\Ses Deneme.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\Ses Deneme.exe
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\Ses Deneme.deps.json
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\Ses Deneme.runtimeconfig.json
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\Ses Deneme.dll
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\Ses Deneme.pdb
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\NAudio.dll
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\Ses Deneme.csproj.Up2Date
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\Ses Deneme.dll
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\refint\Ses Deneme.dll
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\Ses Deneme.pdb
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\Ses Deneme.genruntimeconfig.cache
+C:\Users\ozlem\source\repos\Ses Deneme\Ses Deneme\obj\Debug\net8.0\ref\Ses Deneme.dll

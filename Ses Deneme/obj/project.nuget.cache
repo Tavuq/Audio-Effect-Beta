@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aN1xQoIxdac=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozlem\\source\\repos\\Ses Deneme\\Ses Deneme\\Ses Deneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozlem\\.nuget\\packages\\naudio\\2.3.0\\naudio.2.3.0.nupkg.sha512",
+    "C:\\Users\\ozlem\\.nuget\\packages\\naudio.asio\\2.3.0\\naudio.asio.2.3.0.nupkg.sha512",
+    "C:\\Users\\ozlem\\.nuget\\packages\\naudio.core\\2.3.0\\naudio.core.2.3.0.nupkg.sha512",
+    "C:\\Users\\ozlem\\.nuget\\packages\\naudio.midi\\2.3.0\\naudio.midi.2.3.0.nupkg.sha512",
+    "C:\\Users\\ozlem\\.nuget\\packages\\naudio.wasapi\\2.3.0\\naudio.wasapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\ozlem\\.nuget\\packages\\naudio.winmm\\2.3.0\\naudio.winmm.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

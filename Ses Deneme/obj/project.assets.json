@@ -205,7 +205,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ozlem\\.nuget\\packages\\": {}
+    "C:\\Users\\ozlem\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -216,8 +217,12 @@
       "packagesPath": "C:\\Users\\ozlem\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ozlem\\source\\repos\\Ses Deneme\\Ses Deneme\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\ozlem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
